@@ -1,0 +1,16 @@
+[
+{
+  "modid": "test_mod",
+  "name": "Test Mod",
+  "description": "test mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Guardian"],
+  "credits": "The Forge and FML guys, for making Forge and FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
